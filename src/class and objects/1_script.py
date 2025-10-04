@@ -1,3 +1,5 @@
+#creating class and object
+
 class Dog:
     def bark(self):
         print("whoof whoof")
